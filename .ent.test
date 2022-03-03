@@ -1,0 +1,2 @@
+DATABASE_URL="postgresql://postgres:yasha09@localhost:5435/nest?schema=public"
+JWT_SECRET=JWT_SECRET_KEY
